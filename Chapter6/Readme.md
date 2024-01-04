@@ -1,26 +1,27 @@
-Below are the sequence of programs
+# Bouncing Ball Game
+## Incremental Sequence in which the Game is built
+> Run the program "python2 bb1.py"
 
 
-1
-Bb1.py
+- Bb1.py
 Bouncing Ball moving through the Game Screen
-2
-Bb2.py
+
+- Bb2.py
 Add Paddle to bounce from Paddle
-3
-Bb3.py
+
+- Bb3.py
 Game over if the ball crosses the paddle
-4
-bb4.py
+
+- bb4.py
 Space bar for restarting the game
-6
-Bb5.py
+
+- Bb5.py
 Sound effects
-7
-Bb6.py
+
+- Bb6.py
 Background Images
 Ball as an image (instead of circle)
-8
-Bb7.py
+
+- Bb7.py
 Ball Rotating
 
