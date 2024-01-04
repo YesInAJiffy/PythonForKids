@@ -1,6 +1,6 @@
 # Bouncing Ball Game
 ## Incremental Sequence in which the Game is built
-> Run the program "python2 bb1.py"
+> Run the program "python3 bb1.py"
 
 
 - Bb1.py
